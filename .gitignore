@@ -1,0 +1,12 @@
+/vendor/
+/composer.lock
+.idea
+.DS_Store
+.tags*
+.swp
+sftp-config*
+bs-config*
+.coding-ide/*
+nohup*
+npm-*.log
+.well-known

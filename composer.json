@@ -1,0 +1,14 @@
+{
+    "name": "wqgame/defender",
+    "description": "A security component for php-based site.",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "itbdw/ip-database": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Defender\\": "src/"
+        }
+    }
+}
